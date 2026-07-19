@@ -135,4 +135,9 @@ The match-level dataset is included inside the workbook. The original external d
 
 ## Author
 
-Add your name, LinkedIn profile, and contact information here.
+**Mahmoud Ahmed**
+
+- GitHub: [Nagato1pain2](https://github.com/Nagato1pain2)
+- LinkedIn: [Mahmoud Ahmed — Data](https://www.linkedin.com/in/mahmoud-ahmed-data/)
+- Email: [mahmoudahmed1147@gmail.com](mailto:mahmoudahmed1147@gmail.com)
+- Phone: 01010700943
